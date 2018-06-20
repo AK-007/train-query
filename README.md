@@ -26,6 +26,8 @@ Or you can refer to this example for train query
 ## Modules & Libraries used :
 1. yargs - Used this as a command-line tool for parsing arguments
 2. axios - Used this HTTP client which has built-in promises
+3. fs - File system module for reading and writing into files
+4. console-table - for well-formatted output
 
 The *fileHandler.js* is used for reading and writing .json files.
 
